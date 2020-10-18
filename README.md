@@ -31,7 +31,9 @@ change **public** to anything you wants, related to the **object title** that yo
 if you want to change the directory to another folder, then change in the **root** line, to something like
 
 > app_path() // app folder
+
 > public_path() // public folder
+
 > config_path() // config folder
 
 Of course the recommended one is public folder, because there is the place that everyone can access, include your users.
